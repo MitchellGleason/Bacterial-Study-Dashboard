@@ -10,4 +10,19 @@
 
 body {
     font-family: 'Fira Code', monospace;
+    background-color: #010409;
+}
+
+.well {
+    background-color: #010409;
+    color: #ffffff;
+}
+
+:root {
+    color-scheme: dark;
+  }
+
+.panel {
+    background-color: #010409;
+    color: #ffffff;
 }
