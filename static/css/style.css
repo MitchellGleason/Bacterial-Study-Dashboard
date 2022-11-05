@@ -1,0 +1,13 @@
+.jumbotron {
+    height: 50vh;
+    background-image: url("../images/jumbotron_image.jpg");
+    background-size: 100% 110%;
+    text-align: center;
+    padding-top: calc(50% - 50vh);
+    -webkit-text-fill-color: #ffffff;
+    text-shadow: 0px 0px 10px #000000;
+}
+
+body {
+    font-family: 'Fira Code', monospace;
+}
